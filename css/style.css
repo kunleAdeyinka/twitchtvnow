@@ -1,0 +1,17 @@
+.logo {
+  max-width: 50px;
+  max-height: 50px;
+  border-radius: 50%;
+  border: 3px solid #e1e1e6;
+}
+
+.online {
+  background-color: #b8cca6;
+  color: #5c5457;
+}
+
+.adjust {
+
+  padding: 0px 5px;
+  margin: 4px 0px;
+}
